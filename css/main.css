@@ -2,16 +2,24 @@ head{
     background-color:purple;
 }
 
-html {
-    height: 100%;
-}
-
 body {
     background: linear-gradient(to bottom right, yellow, rgb(255, 236, 32), #f3a3d6, rgb(136,144,226));
 }
 
 hr {
-    border-color: green;
+    border-color: deepskyblue;
 }
 
-/*rgb(255, 236, 32)*/
+img {
+    display: block;  
+    margin: auto;
+    width: 30%;
+}
+
+.center{
+    text-align: center;
+}
+
+h3, h4 {
+    display: none;
+}
