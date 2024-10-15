@@ -20,6 +20,6 @@ img {
     text-align: center;
 }
 
-h3, h4 {
+.hidden {
     display: none;
 }
